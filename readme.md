@@ -4,7 +4,7 @@
 Simple API is the project default for start API
 
 ## Contain
-  - Dingo API setting for RESTFULL
+  - Dingo API setting for RESTFUL
   - ENV for envoriment variables
 
 ## Installation
